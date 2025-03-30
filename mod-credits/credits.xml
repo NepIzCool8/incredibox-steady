@@ -14,10 +14,10 @@ FORMATTING:
 
 <credits>
   <page 
-  noImage="true"
-  image=""
+  noImage="false"
+  image="02c_beanie-hd.png"
   title="Credit Page"
-  text="You can edit this page inside (!italic/mod-credits/credits.xml file.)(!line) You can add more pages by copying the page tag and pasting it below the last page tag."
+  text="Thanks to (!color/#5844f5/NepIzCool8) for the mod, art and code!"
   />
   <page 
   noImage="false"
