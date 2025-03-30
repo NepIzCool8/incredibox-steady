@@ -2,14 +2,14 @@
 // To add more versions, copy the versions.v1 and replace with versions.v2, and the same with others (it support more than 9 versions)
 
 versions.v1 = {
-  name: "Template",
-  version: "temp01",
+  name: "Steady",
+  version: "steay01",
   date: "2025",
   folder: "asset-v1/", // ← If you are adding more versions, make sure follder is correct, for example "asset-v2/" for v2
   looptime: 5333,
-  bpm: 90,
+  bpm: 75,
   totalframe: 260,
-  nbpolo: 7,
+  nbpolo: 5,
   bonusloopA: false, // ← It makes bonus start on loop A, if its false, bonus will start after 1 loop
   bonusendloopA: true,
   colBck: "#0F0F0F",
