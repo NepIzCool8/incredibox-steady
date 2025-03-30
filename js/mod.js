@@ -19,9 +19,9 @@ let ShakeEffectOn=null===localStorage.getItem("ShakeEffectOn")||"true"===localSt
 
 
 // Register your mod here
-var RegisterMod = "Unknow";
+var RegisterMod = "Steady";
 var RegisterModVersion = "0.0.1";
-var ModDeveloper = "Developer";
+var ModDeveloper = "NeptuneIzCool";
 
 // Simple function for locked icons!
 function onLockedIcon(){
