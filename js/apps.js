@@ -3,7 +3,7 @@
 
 versions.v1 = {
   name: "Steady",
-  version: "steay01",
+  version: "steady01",
   date: "2025",
   folder: "asset-v1/", // ← If you are adding more versions, make sure follder is correct, for example "asset-v2/" for v2
   looptime: 5333,
@@ -122,7 +122,7 @@ versions.v1 = {
   ],
   bonusarray: [
     {
-      name: "blank",
+      name: "across",
       src: "b1-v1-blank-hb",
       code: "1,2,3,4,5",
       sound: "aspire-blank",
